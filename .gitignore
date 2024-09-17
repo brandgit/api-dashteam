@@ -1,0 +1,11 @@
+# Fichiers d'environnement
+.env
+/node_modules
+
+
+
+
+# Ignorer les logs
+logs
+*.log
+npm-debug.log*
